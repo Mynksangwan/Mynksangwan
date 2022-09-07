@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mayank   
-- 👀 I’m interested in Data Science and Web development 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any project related to python. 
+- 👀 I’m interested Web development 
+- 🌱 I’m currently learning Python and javascript
 - 📫 Reach me at sangwanmayank4431@gmail.com
 
 <!---
