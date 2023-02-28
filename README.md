@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Mayank   
-- 👀 I’m interested Web development 
-- 🌱 I’m currently learning Python and javascript
-- 📫 Reach me at sangwanmayank4431@gmail.com
+👋Hi, There!!
 
 <!---
 Mynksangwan/Mynksangwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
